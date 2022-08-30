@@ -1,0 +1,27 @@
+Left Click at: (1775, 196)
+Left Click at: (1185, 689)
+Left Click at: (1185, 689)
+Left Click at: (972, 434)
+Ctrl+A
+Title
+Left Click at: (1357, 926)
+Left Click at: (1357, 926)
+Left Click at: (645, 547)
+Left Click at: (720, 765)
+Left Click at: (714, 401)
+Ctrl+A
+Date
+Left Click at: (879, 766)
+Left Click at: (879, 766)
+Ctrl+A
+Time=10:30AM
+Left Click at: (1362, 928)
+Pause=5
+Left Click at: (1723, 130)
+Left Click at: (1169, 715)
+Left Click at: (1169, 715)
+Link Copied
+Left Click at: (1195, 766)
+Left Click at: (68, 197)
+break
+
